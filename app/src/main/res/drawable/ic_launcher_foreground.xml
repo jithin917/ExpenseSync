@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Receipt Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24 L76,24 C78.2,24 80,25.8 80,28 L80,78 L74,74 L68,78 L62,74 L56,78 L50,74 L44,78 L38,74 L32,78 C30.9,78 30,77.1 30,76 L30,28 C30,25.8 31.8,24 32,24 Z" />
+    
+    <!-- Receipt Header Bar -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M34,26 L74,26 C75.1,26 76,26.9 76,28 L76,34 L32,34 L32,28 C32,26.9 32.9,26 34,26 Z" />
+    
+    <!-- Receipt Text lines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M38,40 L70,40 C70.5,40 71,40.4 71,41 C71,41.6 70.5,42 70,42 L38,42 C37.5,42 37,41.6 37,41 C37,40.4 37.5,40 38,40 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M38,46 L64,46 C64.5,46 65,46.4 65,47 C65,47.6 64.5,48 64,48 L38,48 C37.5,48 37,47.6 37,47 C37,46.4 37.5,46 38,46 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M38,52 L56,52 C56.5,52 57,52.4 57,53 C57,53.6 56.5,54 56,54 L38,54 C37.5,54 37,53.6 37,53 C37,52.4 37.5,52 38,52 Z" />
+
+    <!-- Badge Circle (Sync / Success) in Bottom Right -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M60,60 A14,14 0 1,0 88,60 A14,14 0 1,0 60,60 Z" />
+    
+    <!-- Currency / Sync icon inside badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,54 L78,54 C78.5,54 79,54.4 79,55 C79,55.6 78.5,56 78,56 L73,56 L73,58 L77,58 C77.5,58 78,58.4 78,59 C78,59.6 77.5,60 77,60 L73,60 L73,61 C73,62.1 73.9,63 75,63 L77.5,66 L75,66 L72.5,63 C71.7,63 71,62.3 71,61.5 L71,60 L69,60 C68.5,60 68,59.6 68,59 C68,58.4 68.5,58 69,58 L71,58 L71,56 L69,56 C68.5,56 68,55.4 68,55 C68,54.4 68.5,54 69,54 L70,54 Z" />
+</vector>
